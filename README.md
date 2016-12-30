@@ -1,6 +1,2 @@
-# Some test code in Go
+leetcode algorithm problem's solutions in golang.
 
-
-## descript
-
-...
